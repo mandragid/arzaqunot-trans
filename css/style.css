@@ -309,7 +309,7 @@ button {
 
 .banner_taital {
 	width: 100%;
-	font-size: 60px;
+	font-size: 55px;
 	color: #2c2c2c;
 	font-weight: 800;
 	line-height: 70px;
@@ -936,8 +936,8 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .footeer_logo {
-	width: 100%;
-	float: left;
+	max-width: 200px;
+
 	text-align: center;
 }
 
